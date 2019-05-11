@@ -10,7 +10,7 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <key></key>
+                    <key>url</key>
                     <string>http://www-lbuilder-com.oss-www.lbuilder.com/app_package/lbuilder__32194_1557541725.ipa</string> 
                 </dict>
             </array>
